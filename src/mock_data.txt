@@ -1,6 +1,17 @@
 {
+  "Boob": {
     "name": "John Doe",
-    "age": 30,
-    "email": "john.doe@example.com",
-    "address": "123 Main St, Anytown, USA"
+    "age": 30
+  },
+  "Anna": {
+    "name": "Jane Smith",
+    "age": 25,
+    "email": "jane.smith@example.com",
+    "address": "456 Oak St, Anytown, USA",
+    "contacts": {
+      "phone": "987-654-3210",
+      "emergency": "999"
+    }
+  }
 }
+
