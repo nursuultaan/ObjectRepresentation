@@ -4,8 +4,7 @@
     "age": 30
   },
   "Anna": {
-    "name": "Jane Smith",
-    "age": 25,
+    
     "email": "jane.smith@example.com",
     "address": "456 Oak St, Anytown, USA",
     "contacts": {
